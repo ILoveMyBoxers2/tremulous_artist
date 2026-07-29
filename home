@@ -1,0 +1,198 @@
+<html lang="en"><head>
+<script>window.siteConfig = {"activated":false,"created":"2026-07-29T21:12:37.387Z","cookie_setting":null,"age_setting":null,"workspace_id":"wrks2ocHpUu7vCCHR9HP","record_id":"webjI0zj8XUG5aNsbG3","reseller_website":false,"socials":null,"business_name":"Groovy Looks Fashion","blog_config":null,"agentic":true,"ecom_support":true,"domain":null,"suspended":false,"plan":null,"restricted":false,"slug":"groovylooksfashion","account_id":null,"workspace_current_url":"groovylooksfashion.app.lindo.agency","embeddable":false,"date":"2026-07-29T21:12:37.387Z","issuer":null};</script><meta charset="UTF-8"><meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1  "><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="lindo-page-setting" id="assk1X2NjQjAlg1t0ra"><title></title><meta name="description" content=""><meta property="og:title" content=""><meta property="og:description" content=""><meta property="og:image" content=""><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content=""><meta name="twitter:description" content=""><meta name="twitter:image" content=""><link rel="icon" href="https://cdn.ln-cdn.com/c/webjI0zj8XUG5aNsbG3/images/logo-sqr-256x.png"><link href="https://cdn.ln-cdn.com/c/webjI0zj8XUG5aNsbG3/css/global.css?v=a41b4fbb" rel="stylesheet"><script src="https://cdn.jsdelivr.net/npm/motion@latest/dist/motion.js"></script><script src="https://cdn.ln-cdn.com/js/motion-animate.js"></script><script type="application/ld+json">{"url":"https://groovylooksfashion.com","name":"Groovy Looks Fashion","@type":"Organization","sameAs":["https://www.facebook.com/GroovyLooksFashion","https://x.com/x_groovylooksfashion","https://www.instagram.com/groovylooksfashion","https://www.youtube.com/@GroovyLooks","https://www.pinterest.com/GroovyLooks/"],"slogan":"Life's Too Short for Boring Clothes","@context":"https://schema.org","description":"it's not just clothing it's a movement. Retro-inspired all-over-print apparel for trendsetters who refuse to blend in.","foundingDate":"2026"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://groovylooks.by.lindo.agency#website","name":"Groovy Looks Fashion","url":"https://groovylooks.by.lindo.agency","creator":{"@type":"Organization","name":"Lindo.ai","url":"https://lindo.ai"}}</script>
+</head><body><main dir="ltr" lindo-main-content="" id="content" role="main" class="min-h-screen bg-white dark:bg-neutral-950 text-zinc-900 dark:text-neutral-100"><header class="sticky top-0 z-50 bg-white/95 dark:bg-zinc-950/95 backdrop-blur-sm border-b border-zinc-200 dark:border-zinc-800" lindo-section="_global_header0000" lindo-section-block-id="0000">
+  <div class="max-w-[1920px] mx-auto px-4 md:px-8">
+    <div class="flex items-center justify-between h-16 md:h-20">
+      <!-- Logo -->
+      <a href="/" class="flex items-center gap-3" lindo-btn="_global_header0000_btn_text_1">
+        <img src="https://cdn.ln-cdn.com/c/webjI0zj8XUG5aNsbG3/images/logo-full-256x.png" alt="Groovy Looks Fashion" class="h-8 w-auto" lindo-image-logo="full">
+        <span class="text-lg font-serif tracking-tight text-zinc-900 dark:text-white hidden sm:block" lindo-text="_global_header0000_text_1">Groovy Looks</span>
+      </a>
+
+      <!-- Desktop Navigation -->
+      <nav class="hidden lg:flex items-center gap-8" aria-label="Main navigation">
+        <a href="/" class="text-xs font-semibold uppercase tracking-widest text-zinc-700 dark:text-zinc-300 hover:text-zinc-900 dark:hover:text-white transition-colors" lindo-btn="_global_header0000_btn_text_2" lindo-text="_global_header0000_text_2">Home</a>
+        <a href="/shop/" class="text-xs font-semibold uppercase tracking-widest text-zinc-700 dark:text-zinc-300 hover:text-zinc-900 dark:hover:text-white transition-colors" lindo-btn="_global_header0000_btn_text_3" lindo-text="_global_header0000_text_3">Shop</a>
+        <a href="/about/" class="text-xs font-semibold uppercase tracking-widest text-zinc-700 dark:text-zinc-300 hover:text-zinc-900 dark:hover:text-white transition-colors" lindo-btn="_global_header0000_btn_text_4" lindo-text="_global_header0000_text_4">About</a>
+        <a href="/contact/" class="text-xs font-semibold uppercase tracking-widest text-zinc-700 dark:text-zinc-300 hover:text-zinc-900 dark:hover:text-white transition-colors" lindo-btn="_global_header0000_btn_text_5" lindo-text="_global_header0000_text_5">Contact</a>
+      </nav>
+
+      <!-- CTA + Mobile Hamburger -->
+      <div class="flex items-center gap-4">
+        <a href="/shop/" class="hidden sm:inline-flex bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 px-5 py-2 text-xs tracking-wide uppercase font-medium hover:bg-zinc-700 dark:hover:bg-zinc-200 transition-colors" lindo-btn="_global_header0000_btn_text_6" lindo-text="_global_header0000_text_6">Shop Now</a>
+        <!-- Hamburger -->
+        <button id="mobile-menu-toggle" class="lg:hidden flex flex-col gap-1.5 p-2" aria-label="Toggle navigation menu" aria-expanded="false" lindo-btn="_global_header0000_btn_text_7">
+          <span class="block w-5 h-0.5 bg-zinc-900 dark:bg-white transition-all duration-300"></span>
+          <span class="block w-5 h-0.5 bg-zinc-900 dark:bg-white transition-all duration-300"></span>
+          <span class="block w-5 h-0.5 bg-zinc-900 dark:bg-white transition-all duration-300"></span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="lg:hidden hidden pb-6 pt-2 border-t border-zinc-200 dark:border-zinc-800">
+      <nav class="flex flex-col gap-4" aria-label="Mobile navigation">
+        <a href="/" class="text-sm font-medium text-zinc-700 dark:text-zinc-300 hover:text-zinc-900 dark:hover:text-white transition-colors" lindo-btn="_global_header0000_btn_text_8" lindo-text="_global_header0000_text_7">Home</a>
+        <a href="/shop/" class="text-sm font-medium text-zinc-700 dark:text-zinc-300 hover:text-zinc-900 dark:hover:text-white transition-colors" lindo-btn="_global_header0000_btn_text_9" lindo-text="_global_header0000_text_8">Shop</a>
+        <a href="/about/" class="text-sm font-medium text-zinc-700 dark:text-zinc-300 hover:text-zinc-900 dark:hover:text-white transition-colors" lindo-btn="_global_header0000_btn_text_10" lindo-text="_global_header0000_text_9">About</a>
+        <a href="/contact/" class="text-sm font-medium text-zinc-700 dark:text-zinc-300 hover:text-zinc-900 dark:hover:text-white transition-colors" lindo-btn="_global_header0000_btn_text_11" lindo-text="_global_header0000_text_10">Contact</a>
+        <a href="/shop/" class="inline-flex bg-zinc-900 dark:bg-white text-white dark:text-zinc-900 px-5 py-2 text-xs tracking-wide uppercase font-medium self-start mt-2" lindo-btn="_global_header0000_btn_text_12" lindo-text="_global_header0000_text_11">Shop Now</a>
+      </nav>
+    </div>
+  </div>
+
+  <script>
+    (function() {
+      var toggle = document.getElementById('mobile-menu-toggle');
+      var menu = document.getElementById('mobile-menu');
+      if (toggle && menu) {
+        toggle.addEventListener('click', function() {
+          var expanded = toggle.getAttribute('aria-expanded') === 'true' ? false : true;
+          toggle.setAttribute('aria-expanded', expanded);
+          menu.classList.toggle('hidden');
+        });
+      }
+    })();
+  </script>
+</header><section class="relative w-full h-[85vh] overflow-hidden" data-motion="fade" lindo-section="_block_ja6u4643344334" lindo-section-block-id="4334"><img src="https://images.pexels.com/photos/6069829/pexels-photo-6069829.jpeg?auto=compress&cs=tinysrgb&w=1920" alt="Groovy retro fashion model in vintage clothing store" class="absolute inset-0 w-full h-full object-cover object-center grayscale-[40%] brightness-75" lindo-image="_block_ja6u4643344334_image_1" ln-media-type="images"><div class="absolute inset-0 bg-black/20"></div><div class="absolute inset-0 flex flex-col items-center justify-center text-center text-white p-6"><span class="text-xs md:text-sm tracking-[0.2em] uppercase mb-4 opacity-80" data-motion="fade-down" lindo-text="_block_ja6u4643344334_text_1">Groovy Looks Fashion</span><h1 class="text-5xl md:text-7xl font-serif tracking-tight mb-6 leading-tight" data-motion="heading" lindo-text="_block_ja6u4643344334_text_2">Life's Too Short for<br>Boring Clothes</h1><p class="text-base md:text-lg font-light text-white/80 max-w-2xl mb-10" data-motion="fade-up" lindo-text="_block_ja6u4643344334_text_3">From Bell-Bottoms to Bold Prints — redefine retro for 2026 with all-over-print apparel that turns every outfit into wearable art.</p><div class="flex gap-4 flex-wrap justify-center" data-motion="cta"><a href="/shop/" class="bg-white text-zinc-950 px-8 py-3 text-sm tracking-wide uppercase font-medium hover:bg-zinc-200 transition-colors min-w-[160px]" lindo-btn="_block_ja6u4643344334_btn_text_1" lindo-text="_block_ja6u4643344334_text_4">Shop Collection</a> <a href="/about/" class="bg-transparent border border-white/40 text-white px-8 py-3 text-sm tracking-wide uppercase font-medium hover:bg-white hover:text-zinc-950 transition-colors min-w-[160px]" lindo-btn="_block_ja6u4643344334_btn_text_2" lindo-text="_block_ja6u4643344334_text_5">Our Story</a></div></div></section><section class="py-20 md:py-32 px-4 md:px-8 max-w-[1920px] mx-auto" data-motion="fade-up" lindo-section="_block_ty8jf257645764" lindo-section-block-id="5764"><div class="text-center mb-16"><span class="text-xs font-semibold tracking-widest uppercase text-zinc-500 mb-4 block" lindo-text="_block_ty8jf257645764_text_1">Shop by Category</span><h2 class="text-3xl md:text-5xl font-serif tracking-tight" lindo-text="_block_ty8jf257645764_text_2">Express Your Vibe</h2><p class="text-zinc-500 font-light mt-4 max-w-xl mx-auto" lindo-text="_block_ty8jf257645764_text_3">From psychedelic patterns to neon throwbacks, find your perfect look.</p></div><div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8"><a href="/shop/?category=tops" class="group relative overflow-hidden bg-zinc-100 dark:bg-zinc-900 aspect-[4/5]" data-motion="card" lindo-btn="_block_ty8jf257645764_btn_text_1"><img src="https://images.pexels.com/photos/18255474/pexels-photo-18255474.png?auto=compress&cs=tinysrgb&w=800" alt="Vibrant retro tops collection" class="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-105 saturate-50" lindo-image="_block_ty8jf257645764_image_1" ln-media-type="images"><div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div><div class="absolute bottom-0 left-0 right-0 p-6 md:p-8"><span class="text-xs tracking-[0.2em] uppercase text-white/70" lindo-text="_block_ty8jf257645764_text_4">Collection</span><h3 class="text-2xl md:text-3xl font-serif text-white mt-1" lindo-text="_block_ty8jf257645764_text_5">Tops</h3></div></a><a href="/shop/?category=bottoms" class="group relative overflow-hidden bg-zinc-100 dark:bg-zinc-900 aspect-[4/5]" data-motion="card" lindo-btn="_block_ty8jf257645764_btn_text_2"><img src="https://images.pexels.com/photos/30604679/pexels-photo-30604679.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Retro bottoms and leggings" class="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-105 saturate-50" lindo-image="_block_ty8jf257645764_image_2" ln-media-type="images"><div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div><div class="absolute bottom-0 left-0 right-0 p-6 md:p-8"><span class="text-xs tracking-[0.2em] uppercase text-white/70" lindo-text="_block_ty8jf257645764_text_6">Collection</span><h3 class="text-2xl md:text-3xl font-serif text-white mt-1" lindo-text="_block_ty8jf257645764_text_7">Bottoms</h3></div></a><a href="/shop/?category=dresses" class="group relative overflow-hidden bg-zinc-100 dark:bg-zinc-900 aspect-[4/5]" data-motion="card" lindo-btn="_block_ty8jf257645764_btn_text_3"><img src="https://images.pexels.com/photos/7920839/pexels-photo-7920839.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Colorful retro dresses" class="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-105 saturate-50" lindo-image="_block_ty8jf257645764_image_3" ln-media-type="images"><div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div><div class="absolute bottom-0 left-0 right-0 p-6 md:p-8"><span class="text-xs tracking-[0.2em] uppercase text-white/70" lindo-text="_block_ty8jf257645764_text_8">Collection</span><h3 class="text-2xl md:text-3xl font-serif text-white mt-1" lindo-text="_block_ty8jf257645764_text_9">Dresses</h3></div></a></div></section><section class="grid grid-cols-1 md:grid-cols-2" data-motion="fade" lindo-section="_block_zuewmv62816281" lindo-section-block-id="6281"><div class="bg-zinc-100 dark:bg-zinc-900 p-12 md:p-24 flex flex-col justify-center"><span class="text-xs font-medium tracking-widest uppercase text-zinc-500 dark:text-zinc-400 mb-6" data-motion="badge" lindo-text="_block_zuewmv62816281_text_1">The Philosophy</span><h2 class="text-3xl md:text-5xl font-serif tracking-tight mb-8 leading-tight" data-motion="heading" lindo-text="_block_zuewmv62816281_text_2">We believe fashion should be fun, expressive, and<br>unapologetically bold.</h2><p class="text-zinc-600 dark:text-zinc-400 font-light leading-relaxed max-w-md mb-10" data-motion="text" lindo-text="_block_zuewmv62816281_text_3">Inspired by retro vibes and modern street culture, we create all-over-print apparel that turns everyday outfits into wearable art.</p><a href="/about/" class="inline-flex items-center text-sm font-medium uppercase tracking-widest hover:text-zinc-600 dark:hover:text-zinc-300 transition-colors" data-motion="button" lindo-btn="_block_zuewmv62816281_btn_text_1" lindo-text="_block_zuewmv62816281_text_4">Explore Our Story <svg class="w-4 h-4 ml-2 object-cover" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" lindo-image="_block_zuewmv62816281_image_1" ln-media-type="svg" /></a></div><div class="relative aspect-square md:aspect-auto min-h-[400px]"><img src="https://images.pexels.com/photos/7679742/pexels-photo-7679742.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Colorful patterned dress on hanger in boutique" class="absolute inset-0 w-full h-full object-cover grayscale brightness-90" lindo-image="_block_zuewmv62816281_image_2" ln-media-type="images"></div></section><section class="py-20 md:py-32 px-4 md:px-8 max-w-[1920px] mx-auto" lindo-section="_block_le847y26422642" lindo-section-block-id="2642"><div class="max-w-4xl mx-auto text-center" data-motion="fade-up"><span class="text-xs font-semibold tracking-widest uppercase text-zinc-500 mb-4 block" lindo-text="_block_le847y26422642_text_1">Our Mission</span><h2 class="text-3xl md:text-5xl font-serif tracking-tight mb-8 leading-tight" data-motion="heading" lindo-text="_block_le847y26422642_text_2">Bring color, confidence, and creativity back into fashion.</h2><p class="text-zinc-600 dark:text-zinc-400 font-light text-lg leading-relaxed max-w-2xl mx-auto mb-12" data-motion="text" lindo-text="_block_le847y26422642_text_3">From psychedelic patterns to neon throwbacks, every piece is designed for trendsetters who refuse to blend in. Whether you're hitting a festival, chilling with friends, or elevating your streetwear style, Groovy Looks Fashion gives you the freedom to express your vibe.</p><div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16" data-motion="col"><div class="p-8 border border-zinc-200 dark:border-zinc-800"><span class="text-4xl font-serif block mb-4" lindo-text="_block_le847y26422642_text_4">🎨</span><h3 class="text-lg font-serif mb-2" lindo-text="_block_le847y26422642_text_5">Bold Expression</h3><p class="text-sm text-zinc-500 font-light" lindo-text="_block_le847y26422642_text_6">Every print tells a story. Wear your personality with pride.</p></div><div class="p-8 border border-zinc-200 dark:border-zinc-800"><span class="text-4xl font-serif block mb-4" lindo-text="_block_le847y26422642_text_7">🕶️</span><h3 class="text-lg font-serif mb-2" lindo-text="_block_le847y26422642_text_8">Retro Vibes</h3><p class="text-sm text-zinc-500 font-light" lindo-text="_block_le847y26422642_text_9">Vintage aesthetics reimagined for the modern individual.</p></div><div class="p-8 border border-zinc-200 dark:border-zinc-800"><span class="text-4xl font-serif block mb-4" lindo-text="_block_le847y26422642_text_10">✨</span><h3 class="text-lg font-serif mb-2" lindo-text="_block_le847y26422642_text_11">Quality First</h3><p class="text-sm text-zinc-500 font-light" lindo-text="_block_le847y26422642_text_12">High-quality materials that feel as good as they look.</p></div></div></div></section><section class="relative py-24 md:py-40 overflow-hidden" data-motion="fade" lindo-section="_block_e4v1if94099409" lindo-section-block-id="9409"><img src="https://images.pexels.com/photos/374677/pexels-photo-374677.jpeg?auto=compress&cs=tinysrgb&w=1920" alt="Vintage clothing shopping experience" class="absolute inset-0 w-full h-full object-cover object-center grayscale-[30%] brightness-50" lindo-image="_block_e4v1if94099409_image_1" ln-media-type="images"><div class="absolute inset-0 bg-black/30"></div><div class="relative z-10 max-w-4xl mx-auto text-center text-white px-4"><span class="text-xs md:text-sm tracking-[0.2em] uppercase mb-4 opacity-80 block" lindo-text="_block_e4v1if94099409_text_1">Find Your Groove</span><h2 class="text-4xl md:text-6xl font-serif tracking-tight mb-6 leading-tight" data-motion="heading" lindo-text="_block_e4v1if94099409_text_2">It's not just clothing —<br>it's a movement</h2><p class="text-white/70 font-light text-lg mb-10 max-w-xl mx-auto" data-motion="text" lindo-text="_block_e4v1if94099409_text_3">Join the Groovy revolution. Shop the latest drops and express your true self.</p><a href="/shop/" class="inline-block bg-white text-zinc-950 px-10 py-4 text-sm tracking-wide uppercase font-medium hover:bg-zinc-200 transition-colors" data-motion="button" lindo-btn="_block_e4v1if94099409_btn_text_1" lindo-text="_block_e4v1if94099409_text_4">Shop Now</a></div></section><footer class="bg-zinc-950 text-white py-16 md:py-24 border-t border-zinc-900" lindo-section="_global_footer0000" lindo-section-block-id="0000">
+  <div class="max-w-[1920px] mx-auto px-4 md:px-8">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
+      <!-- Brand -->
+      <div>
+        <div class="flex items-center gap-3 mb-6">
+          <img src="https://cdn.ln-cdn.com/c/webjI0zj8XUG5aNsbG3/images/logo-full-256x.png" alt="Groovy Looks Fashion" class="h-8 w-auto brightness-0 invert" lindo-image-logo="full">
+          <span class="text-xl font-serif tracking-tight" lindo-text="_global_footer0000_text_1">Groovy Looks</span>
+        </div>
+        <p class="text-sm font-light text-zinc-400 mb-6 leading-relaxed" lindo-text="_global_footer0000_text_2">it's not just clothing — it's a movement. Retro-inspired apparel for trendsetters who refuse to blend in.</p>
+        <div class="flex gap-4">
+          <a href="https://www.facebook.com/GroovyLooksFashion" target="_blank" rel="noopener noreferrer" aria-label="Facebook" class="text-zinc-500 hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_1">
+            <svg class="w-5 h-5 object-cover" fill="currentColor" viewBox="0 0 24 24" lindo-image="_global_footer0000_image_1" ln-media-type="svg" />
+          </a>
+          <a href="https://x.com/x_groovylooksfashion" target="_blank" rel="noopener noreferrer" aria-label="X (Twitter)" class="text-zinc-500 hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_2">
+            <svg class="w-5 h-5 object-cover" fill="currentColor" viewBox="0 0 24 24" lindo-image="_global_footer0000_image_2" ln-media-type="svg" />
+          </a>
+          <a href="https://www.instagram.com/groovylooksfashion" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="text-zinc-500 hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_3">
+            <svg class="w-5 h-5 object-cover" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" lindo-image="_global_footer0000_image_3" ln-media-type="svg" />
+          </a>
+          <a href="https://www.pinterest.com/GroovyLooks/" target="_blank" rel="noopener noreferrer" aria-label="Pinterest" class="text-zinc-500 hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_4">
+            <svg class="w-5 h-5 object-cover" fill="currentColor" viewBox="0 0 24 24" lindo-image="_global_footer0000_image_4" ln-media-type="svg" />
+          </a>
+          <a href="https://www.youtube.com/@GroovyLooks" target="_blank" rel="noopener noreferrer" aria-label="YouTube" class="text-zinc-500 hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_5">
+            <svg class="w-5 h-5 object-cover" fill="currentColor" viewBox="0 0 24 24" lindo-image="_global_footer0000_image_5" ln-media-type="svg" />
+          </a>
+        </div>
+      </div>
+
+      <!-- Shop Links -->
+      <div>
+        <h4 class="text-xs font-semibold uppercase tracking-widest mb-6 text-zinc-500" lindo-text="_global_footer0000_text_3">Shop</h4>
+        <ul class="space-y-3 text-sm font-light text-zinc-400">
+          <li><a href="/shop/" class="hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_6" lindo-text="_global_footer0000_text_4">All Products</a></li>
+          <li><a href="/shop/?category=dresses" class="hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_7" lindo-text="_global_footer0000_text_5">Dresses</a></li>
+          <li><a href="/shop/?category=tops" class="hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_8" lindo-text="_global_footer0000_text_6">Tops</a></li>
+          <li><a href="/shop/?category=bottoms" class="hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_9" lindo-text="_global_footer0000_text_7">Bottoms</a></li>
+          <li><a href="/shop/?category=beachwear" class="hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_10" lindo-text="_global_footer0000_text_8">BeachWear</a></li>
+        </ul>
+      </div>
+
+      <!-- Quick Links -->
+      <div>
+        <h4 class="text-xs font-semibold uppercase tracking-widest mb-6 text-zinc-500" lindo-text="_global_footer0000_text_9">Explore</h4>
+        <ul class="space-y-3 text-sm font-light text-zinc-400">
+          <li><a href="/about/" class="hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_11" lindo-text="_global_footer0000_text_10">About Us</a></li>
+          <li><a href="/contact/" class="hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_12" lindo-text="_global_footer0000_text_11">Contact</a></li>
+          <li><a href="/shop/" class="hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_13" lindo-text="_global_footer0000_text_12">New Arrivals</a></li>
+          <li><a href="/shop/?category=patterned-chaos" class="hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_14" lindo-text="_global_footer0000_text_13">Patterned Chaos</a></li>
+          <li><a href="/shop/?category=trippy-hippy" class="hover:text-white transition-colors" lindo-btn="_global_footer0000_btn_text_15" lindo-text="_global_footer0000_text_14">Trippy Hippy Tie Dye</a></li>
+        </ul>
+      </div>
+
+      <!-- Newsletter -->
+      <div>
+        <h4 class="text-xs font-semibold uppercase tracking-widest mb-6 text-zinc-500" lindo-text="_global_footer0000_text_15">Newsletter</h4>
+        <p class="text-sm font-light text-zinc-400 mb-4" lindo-text="_global_footer0000_text_16">Join our list for early access to new drops and exclusive offers.</p>
+        <div class="flex border-b border-zinc-800 pb-2">
+          <input type="email" placeholder="Email" class="bg-transparent w-full outline-none text-sm placeholder-zinc-600 text-white">
+          <button class="text-xs uppercase tracking-widest font-medium text-zinc-400 hover:text-white transition-colors whitespace-nowrap" lindo-btn="_global_footer0000_btn_text_16" lindo-text="_global_footer0000_text_17">Sign Up</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bottom Bar -->
+    <div class="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-zinc-900 text-xs text-zinc-600 font-light gap-4">
+      <p lindo-text="_global_footer0000_text_18">© 2026 Groovy Looks Fashion. All rights reserved.</p>
+      <div class="flex gap-6">
+        <a href="#" class="hover:text-zinc-400 transition-colors" lindo-btn="_global_footer0000_btn_text_17" lindo-text="_global_footer0000_text_19">Privacy Policy</a>
+        <a href="#" class="hover:text-zinc-400 transition-colors" lindo-btn="_global_footer0000_btn_text_18" lindo-text="_global_footer0000_text_20">Terms of Service</a>
+        <a href="#" class="hover:text-zinc-400 transition-colors" lindo-btn="_global_footer0000_btn_text_19" lindo-text="_global_footer0000_text_21">Accessibility</a>
+      </div>
+    </div>
+  </div>
+</footer></main>
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+			<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+			<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Playfair Display:wght@300;400;700&display=swap" rel="stylesheet"><script src="https://cdn.ln-cdn.com/js/config2.js"></script><!-- LINDO RIBBON (SSR) -->
+<style>
+:root{--lindo-ribbon-h:48px}
+body{padding-top:var(--lindo-ribbon-h)!important}
+.lindo-ribbon{position:fixed;top:0;left:0;right:0;height:var(--lindo-ribbon-h);z-index:2147483647;display:flex;align-items:center;justify-content:center;gap:16px;padding:0 16px;background:#0b0b12;box-shadow:0 1px 0 rgba(255,255,255,.08);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;box-sizing:border-box}
+.lindo-ribbon *{box-sizing:border-box}
+.lindo-ribbon__brand{display:flex;align-items:center;line-height:0}
+.lindo-ribbon__logo{height:20px;width:auto;display:block}
+.lindo-ribbon__sep{width:1px;height:20px;background:rgba(255,255,255,.18)}
+.lindo-ribbon__text{color:#fff;font-size:14px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.lindo-ribbon__cta{display:inline-flex;align-items:center;white-space:nowrap;color:#fff;text-decoration:none;font-size:13px;font-weight:600;padding:8px 16px;border:1px solid rgba(255,255,255,.35);border-radius:9999px;transition:background .15s ease,border-color .15s ease}
+.lindo-ribbon__cta:hover{background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.6)}
+@media (max-width:640px){.lindo-ribbon{gap:12px;padding:0 12px}.lindo-ribbon__sep,.lindo-ribbon__text{display:none}.lindo-ribbon__cta{padding:7px 14px;font-size:12px}.lindo-ribbon__logo{height:18px}}
+</style>
+<div class="lindo-ribbon" data-lindo-badge="ssr" data-host="groovylooks.by.lindo.agency" data-path="/index.html" role="complementary" aria-label="Built on Lindo">
+	<a class="lindo-ribbon__brand" aria-label="Lindo" target="_blank" rel="noopener" href="https://lindo.ai?utm_source=badge&utm_medium=groovylooks.by.lindo.agency%2Findex.html">
+		<img class="lindo-ribbon__logo" alt="Lindo" src="https://app.lindo.ai/ag/src/full-logo-white.png" loading="lazy">
+	</a>
+	<span class="lindo-ribbon__sep" aria-hidden="true"></span>
+	<span class="lindo-ribbon__text">This website was built on Lindo</span>
+	<a class="lindo-ribbon__cta" target="_blank" rel="noopener" href="https://lindo.ai?utm_source=badge&utm_medium=groovylooks.by.lindo.agency%2Findex.html">Create your website today</a>
+</div>
+<script>
+(function(){
+	try{
+		var FALLBACK=48;
+		var shifted=[];
+		function ribbon(){return document.querySelector('.lindo-ribbon');}
+		function ribbonH(){var b=ribbon();return b&&b.offsetHeight?b.offsetHeight:FALLBACK;}
+		function scan(){
+			var b=ribbon();if(!b||!document.body)return;
+			var h=ribbonH();
+			var nodes=document.body.getElementsByTagName('*');
+			for(var i=0;i<nodes.length;i++){
+				var el=nodes[i];
+				if(el===b||b.contains(el)||el.hasAttribute('data-lindo-top'))continue;
+				var cs=window.getComputedStyle(el);
+				if(cs.position==='fixed'||cs.position==='sticky'){
+					var t=parseFloat(cs.top);
+					if(!isNaN(t)&&t<h){
+						el.setAttribute('data-lindo-top',String(t));
+						el.style.top=(t+h)+'px';
+						shifted.push(el);
+					}
+				}
+			}
+		}
+		function reflow(){
+			var h=ribbonH();
+			document.documentElement.style.setProperty('--lindo-ribbon-h',h+'px');
+			for(var i=0;i<shifted.length;i++){
+				var orig=parseFloat(shifted[i].getAttribute('data-lindo-top'))||0;
+				shifted[i].style.top=(orig+h)+'px';
+			}
+		}
+		function init(){scan();reflow();}
+		if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init);}else{init();}
+		var rt;window.addEventListener('resize',function(){clearTimeout(rt);rt=setTimeout(reflow,150);});
+	}catch(e){}
+})();
+</script>
+<!-- /LINDO RIBBON -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;72208a3d3f9540a9a514f8fa4878bb69&quot;}" crossorigin="anonymous"></script>
+</body></html>
